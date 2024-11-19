@@ -1,0 +1,2 @@
+cat text.txt|cut -d"," -f1 > final.txt
+show file text.txt and cut to divide into "," befre and after and take the first section"-f1" then print it in final.txt file
